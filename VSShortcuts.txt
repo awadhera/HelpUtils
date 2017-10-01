@@ -1,0 +1,61 @@
+F9 - Breakpoint
+F5 - Run with Debug mode
+F5 - Continue until end or next breakpoint
+Shift+F5 - Stop debugging
+Ctrl+F5 - Run without Debug mode
+F10 - Execute and go to next line, Step over
+F11 - Step into a function
+Shift+F11 - Step out of a function
+Ctrl+Shift+F9 - Delete all breakpoints
+Ctrl+D,B - All Breakpoints
+Ctrl+Shift+F5 - Restart
+Ctrl+D,C - Call stack
+Ctrl+D,A - Autos
+Ctrl+D,L - Locals
+Ctrl+D,W - Watch
+Ctrl+Shift+B
+Ctrl+Tab Switch to other specific tab
+Ctrl+Click On item to open object browser
+Tab - Indent
+Shift+Tab - Indent Back
+ALT+Enter=>Change all - Replace all occurrences with something else 
+Ctrl+w - Select 
+Ctrl+w - Reduce selection
+Alt+up - Move code up
+Alt+Down - Move code down
+Ctrl+M+H - Create region
+Ctrl+M+U - Remvoe region(doesnt delete code)
+F12 - Definition
+Alt-F12 - Peek Definition
+Ctrl+- - Move to previous location
+Ctrl+Shift+- - Move forward to Next location
+Alt+Shift+Arrow - Vertically select and replace text
+Ctrl+Alt+/ - Comment, uncomment code //
+Ctrl+Shift+/ - comment, uncomment block /**/
+Ctrl+Shift+Home - Select current to opening of file 
+Ctrl+Shift+End - Selecst current to end of filed
+Ctrl+Shift+F - Find in files
+Ctrl+Comma - Search and go to file as you type.
+Ctrl+M+O - Collapse all
+Ctrl+M+L - UnCollapse all
+Ctrl+} - Match curly brase
+Ctrl+Shift+} - Match and select all elements in between
+Ctrl+Delete - Delete word to right of cursor
+Ctrl+K, Ctrl+D - Do all alignment
+Ctrl+K, Ctrl+K - bookmark
+Ctrl+K, Ctrl+N - Goto Next bookmark
+Ctrl+K, Ctrl+P - Goto Previous bookmark
+Ctrl+J - Intellisense
+Ctrl+space - Intellisense
+Shift+F12 - Find all references, then use F8 to cycle through the results
+Ctrl+Alt+E - Exception settings
+Ctrl+Alt+P - Attach to process
+Ctrl+F10 - Run till cursor
+Shift+F10,F - Step into specific
+Ctrl+R,A - Run Tests
+Ctrl+R, Ctrl+A - Debug Tests
+Ctrl+E,C - Cleanup code(optimize,refactor)
+Ctrl+Alt+Y - Optimize references(get all references)
+Shift+Alt+A - Add existing item
+Shift+Alt+N - Add new item
+Alt+E - Open file in file explorer
