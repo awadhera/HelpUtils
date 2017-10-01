@@ -1,0 +1,9 @@
+>>>>>>>
+new Actions(driver).moveToElement(element).click().perform() - To focus and move mouse cursor to input box
+or
+element.sendKeys("")
+>>>>>>>
+IWebElement.text -> Actual text(data) for the web element
+>>>>>>>
+FEATURENAME_CONDITION_EXPECTED
+>>>>>>>
