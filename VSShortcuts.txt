@@ -59,3 +59,13 @@ Ctrl+Alt+Y - Optimize references(get all references)
 Shift+Alt+A - Add existing item
 Shift+Alt+N - Add new item
 Alt+E - Open file in file explorer
+Ctrl+; - Search for a file in solution explorer
+Ctrl+Alt+l - Switch to solution explorer, Enter to return to file
+Ctrl+F12 - Go to implementation
+Alt+up, Alt+Down - Move cursor to next/previous methods
+Ctrl+Shift+Backspace - Goto last edited location
+Alt+> - Help dropdown match for word till cursor
+Alt+PageDown - Goto Next Error in file
+Alt+PageUP - Goto Previous Error in file
+Ctrl+K, Ctrl+I - Error description
+Ctrl+Shift+Alt+up/down - Move line up/down
