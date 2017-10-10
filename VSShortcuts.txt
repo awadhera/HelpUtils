@@ -7,7 +7,7 @@ F10 - Execute and go to next line, Step over
 F11 - Step into a function
 Shift+F11 - Step out of a function
 Ctrl+Shift+F9 - Delete all breakpoints
-Ctrl+D,B - All Breakpoints
+Ctrl+Alt+B - All Breakpoints
 Ctrl+Shift+F5 - Restart
 Ctrl+D,C - Call stack
 Ctrl+D,A - Autos
@@ -69,3 +69,5 @@ Alt+PageDown - Goto Next Error in file
 Alt+PageUP - Goto Previous Error in file
 Ctrl+K, Ctrl+I - Error description
 Ctrl+Shift+Alt+up/down - Move line up/down
+Ctrl+T - Goto Class/File
+Ctrl+Shfit+F12 - Find all Errors in solution/cycle through them
